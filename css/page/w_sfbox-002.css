@@ -1,0 +1,241 @@
+/*æ— æ•ˆæžœ/åˆ†ç»„*/
+
+.w_sfbox-002>div>.p_SwipPanelBox {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    overflow: hidden;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    transform: translate(0, -50%);
+    padding: 30px 0;
+    z-index: 999;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel {
+    width: auto;
+    height: auto;
+    font-size: 14px;
+    color: #626262;
+    font-size: 12px;
+    padding: 0 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel:first-child {
+    margin-top: 0;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel .font {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin-right: 5px;
+    line-height: 23px;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: NotoSansHans-Regular;
+    font-size: inherit;
+    color: inherit;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel .shape {
+    width: 23px;
+    height: 23px;
+    display: inline-block;
+    margin-left: 5px;
+    line-height: 26px;
+    padding: 4px;
+    background-position: center;
+    background-size: auto auto;
+    vertical-align: middle;
+    position: relative;
+    cursor: pointer;
+    border-radius: 50%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel .shape>div {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.30);
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel.active .shape {
+    border: 1px solid #fff;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel.active {
+    color: #0099cc;
+}
+
+.w_sfbox-002>div>.p_SwipPanelBox .p_SwipPanel .shape img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+
+/*æ— æ•ˆæžœ/åˆ†ç»„*/
+
+.w_sfbox-002>.w_sfbox>.p_fbox>div>.p_fboxChild {
+    border-color: rgba(228, 228, 228, 0);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.w_sfbox-002>.w_sfbox>.p_fbox {
+    width: 100%;
+}
+
+.w_sfbox-002>.w_sfbox {
+    width: 100%;
+    padding: 0;
+}
+
+.w_sfbox-002 {
+    float: left;
+    width: 100%;
+}
+
+.w_sfbox-002 .tips {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    display: none !important;
+}
+
+.w_sfbox-002 .tips .title {
+    text-align: center;
+    font-size: 18px;
+    color: #c3c3c3;
+}
+
+.w_sfbox-002 .tips .content {
+    text-align: center;
+    font-size: 14px;
+    font-family: "å¾®è½¯é›…é»‘";
+    color: #a2a2a2;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.w_sfbox-002>.w_sfbox>.p_fbox>.p_footer {
+    width: 100%;
+    height: 200px;
+    background-color: #2e77ba;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+
+/*é»˜è®¤æ¨ªå‘æ–‡å­—é å·¦*/
+
+
+/*æ¨ªå‘è®¾ç½® æ–‡å­—é å³*/
+
+.w_sfbox-002 .p_SwipPanelBox.hor-right .font {
+    float: right;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.hor-right .shape {
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+
+/*ç«–å‘è®¾ç½® æ–‡å­—é ä¸Š*/
+
+.w_sfbox-002 .p_SwipPanelBox.ver-top .p_SwipPanel {
+    padding: 0 0 0 10px;
+    float: left;
+    margin: 0;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.ver-top .font {
+    margin: 0 0 5px 0;
+    writing-mode: vertical-lr;
+    display: block;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.ver-top .shape {
+    margin: 5px 0 0 0;
+}
+
+
+/*ç«–å‘è®¾ç½® æ–‡å­—é ä¸‹*/
+
+.w_sfbox-002 .p_SwipPanelBox.ver-bottom .p_SwipPanel {
+    padding: 0 0 0 10px;
+    float: left;
+    margin: 0;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.ver-bottom .p_SwipPanel:first-child {
+    padding: 0;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.ver-bottom .font {
+    margin: 5px 0 0 0;
+    writing-mode: vertical-lr;
+    -webkit-writing-mode: vertical-lr;
+    writing-mode: tb-lr;
+    display: block;
+}
+
+.w_sfbox-002 .p_SwipPanelBox.ver-bottom .shape {
+    margin: 0 0 5px 0;
+}
+
+
+/*åŒ…è£¹è§†é¢‘å’Œç¿»å±é¡µçš„å®¹å™¨*/
+
+.w_sfbox-002>.w_sfbox>.p_fbox>.p_wrapbox {
+    position: relative;
+    background-color: #F4F4F4;
+    overflow: hidden;
+}
+
+.w_sfbox-002>.w_sfbox>.p_fbox>.p_wrapbox video {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.w_sfbox-002>.w_sfbox>.p_fbox>div>.p_bgBox {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}

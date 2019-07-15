@@ -1,0 +1,11 @@
+/*初始化111*/
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.pagebox {
+    position: relative;
+}

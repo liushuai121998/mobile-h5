@@ -1,0 +1,235 @@
+
+@media only screen and (max-width: 768px){/*å°å±*/ 
+.map{display:none;}
+
+  .c_portalResIntro_detail-01001 .p_contentBox{
+  padding: 0px 35px;
+  overflow: hidden;
+}
+.c_portalResIntro_detail-01001 .p_header {
+    margin: 20px 0;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource{
+    overflow:hidden;
+    margin-bottom:  20px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource > li{
+    display:inline-block;
+margin-right: 40px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource > li:last-child{
+margin-right: 0px;
+}
+.c_portalResIntro_detail-01001 .p_line {
+  margin: 20px 0;
+  border-bottom:1px solid #ccc;
+}
+.c_portalResIntro_detail-01001 .p_summary{
+  padding:10px;
+  background:#e3f5fe;
+}
+
+.c_portalResIntro_detail-01001 .p_content {
+  margin: 20px 0;
+  overflow:hidden;
+}
+
+
+.c_portalResIntro_detail-01001 .p_KeywordBox span{
+  padding:2px 10px
+}
+
+.c_portalResIntro_detail-01001 .p_name {
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.c_portalResIntro_detail-01001 .p_tags{
+  display:inline-block;
+}
+.c_portalResIntro_detail-01001 .p_tag{
+  display: inline-block;
+    background: #f1f1f1;
+    border: 1px solid #D9D9D9;
+    margin-right: 18px;
+    margin-bottom: 15px;
+    cursor: default;
+    border-radius: 4px;
+    color: #969696;
+}
+
+/*ç›¸å…³ä»‹ç»ç±»åº”ç”¨*/
+.c_portalResIntro_detail-01001 .p_QRCode{
+    text-align: center;
+    padding: 30px 0px;
+  line-height:40px;
+}
+.c_portalResIntro_detail-01001  .p_tit{
+  display: none;
+}
+  .c_portalResIntro_detail-01001 .p_contentBox{
+    padding:0;
+  }
+  .c_portalResIntro_detail-01001 .p_header{
+    border:none;
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 1px solid #e9e9e9;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .c_portalResIntro_detail-01001 .summary-mo{
+        display: block;
+        background: none;
+        padding-left: 0;
+        display: none;
+        padding: 0 10px 15px;
+        width: auto;
+        word-wrap: break-word;
+        word-break: normal;
+  }
+  .c_portalResIntro_detail-01001  .summary-pc{
+    display: none;
+  }
+  .c_portalResIntro_detail-01001 .p_QRCode{
+    display: none;
+  }
+  .c_portalResIntro_detail-01001 .p_dataSource > li{
+    display: block;
+    line-height: 22px;
+    color: #9c9b9b;
+  }
+  .c_portalResIntro_detail-01001 .p_dataSource > li a{
+    color: #9c9b9b;
+  }
+  .c_portalResIntro_detail-01001 .p_dataSource > li:last-child{
+    float:none;
+  }
+  .c_portalResIntro_detail-01001 .p_dataSource {
+    padding: 0 0 10px;
+    margin: 10px;
+    width: auto;
+    display: none;
+}
+
+  .c_portalResIntro_detail-01001  .p_tit{
+    display: block;
+    font-size: 22px;
+    padding: 10px;
+    display: none;
+    margin-bottom: 10px;
+  }
+  .c_portalResIntro_detail-01001 .p_content{
+    margin-top: 0px;
+  }
+  .c_portalResIntro_detail-01001 .p_content img{
+    float:none!important; 
+    margin:0 !important;
+    height:auto !important;
+  }
+  .c_portalResIntro_detail-01001 .p_con{
+      margin: 0 10px;
+  }
+  .c_portalResIntro_detail-01001 div,  .c_portalResIntro_detail-01001 p,  .c_portalResIntro_detail-01001 span{
+    line-height:2;
+    font-size:14px;
+  }
+    .c_portalResIntro_detail-01001 div .nrtitle{font-size:24px;}
+  .c_portalResIntro_detail-01001 .p_con img{
+    width: 100%!important;
+  }
+    
+}
+@media only screen and (min-width: 769px){/*å¤§å±*/
+  .c_portalResIntro_detail-01001 .p_contentBox{
+  /* padding: 0px 35px; */
+  overflow: hidden;
+}
+.c_portalResIntro_detail-01001 .p_header {
+    margin: 20px 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource{
+    overflow:hidden;
+    margin-bottom:  20px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource > li{
+    display:inline-block;
+margin-right: 40px;
+}
+.c_portalResIntro_detail-01001 .p_dataSource > li:last-child{
+margin-right: 0px;
+}
+.c_portalResIntro_detail-01001 .p_line {
+  margin: 20px 0;
+  border-bottom:1px solid #ccc;
+}
+.c_portalResIntro_detail-01001 .p_summary{
+  padding:10px;
+  background:#e3f5fe;
+  word-wrap: break-word;
+  word-break: normal;
+  display: none;
+}
+
+.c_portalResIntro_detail-01001 .p_content {
+  margin: 20px 0;
+  overflow:hidden;
+}
+.c_portalResIntro_detail-01001 .p_KeywordBox span{
+  padding:2px 10px
+}
+
+.c_portalResIntro_detail-01001 .p_name {
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.c_portalResIntro_detail-01001 .p_tags{
+  display:inline-block;
+}
+.c_portalResIntro_detail-01001 .p_tag{
+  display: inline-block;
+    background: #f1f1f1;
+    border: 1px solid #D9D9D9;
+    margin-right: 18px;
+    margin-bottom: 15px;
+    cursor: default;
+    border-radius: 4px;
+    color: #969696;
+}
+
+/*ç›¸å…³ä»‹ç»ç±»åº”ç”¨*/
+.c_portalResIntro_detail-01001 .p_QRCode{
+    text-align: center;
+    padding: 30px 0px;
+    line-height:40px;
+    display: none;
+}
+.c_portalResIntro_detail-01001 .summary-mo{
+  display: none;
+}
+.c_portalResIntro_detail-01001  .p_tit{
+  display: none;
+}
+.map2{display:none;}
+.c_portalResIntro_detail-01001 div{
+ line-height:2;
+ font-size:14px;
+}
+  .c_portalResIntro_detail-01001 .p_con img{
+    width: auto!important;
+  }
+  .c_portalResIntro_detail-01001 .p_dataSource.borderB_dividers{
+    border-bottom: none;
+    display: none;
+  }
+}
+@media only screen and (max-width: 1024px) and (min-width: 769px){/*ä¸­å±*/
+  
+}
+
+
+

@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+*{
+	padding: 0;
+	margin: 0;
+}
+.pagebox{
+	width: 100%;
+}/*page property_start*/.pagebox,#-remove--flag{width:100%;margin:0px auto;}/*page property_end*//*page property_start*/body,#-remove--flag{}/*page property_end*/
+#c_portalResIntro_detail-15560866785161114 .p_MatteIcon .iconfont:before{
+content:'\e602';
+}
+#c_portalResIntro_detail-15560866785161114 >div{
+animation-fill-mode:both;
+}
+#c_portalResIntro_detail-15560866785161114{  width:auto;
+
+  max-width:1600px;
+
+  min-width:0px;
+
+  height:auto;
+
+  max-height:none;
+
+  min-height:0px;
+
+  margin-top:30px;
+
+  margin-left:auto;
+
+  margin-right:auto;
+
+  margin-bottom:0px;
+
+  padding-top:0px;
+
+  padding-left:20px;
+
+  padding-right:20px;
+
+  padding-bottom:0px;
+}
+#c_portalResBreadcrumb_nav-15609990142179930{  width:auto;
+
+  max-width:1600px;
+
+  min-width:0px;
+
+  height:30px;
+
+  max-height:none;
+
+  min-height:0px;
+
+  margin-top:30px;
+
+  margin-left:auto;
+
+  margin-right:auto;
+
+  margin-bottom:0px;
+
+  padding-top:0px;
+
+  padding-left:20px;
+
+  padding-right:20px;
+
+  padding-bottom:0px;
+}
+#w_common_text-1560998850555{
+  width:auto;
+
+  max-width:1600px;
+
+  min-width:0px;
+
+  height:auto;
+
+  max-height:none;
+
+  min-height:0px;
+
+  margin-top:30px;
+
+  margin-left:auto;
+
+  margin-right:auto;
+
+  margin-bottom:0px;
+
+  padding-top:0px;
+
+  padding-left:20px;
+
+  padding-right:20px;
+
+  padding-bottom:0px;
+}
