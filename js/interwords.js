@@ -32,7 +32,7 @@ function getStaticHost() {
     var origin = window.location.origin;
     var pathname = window.location.pathname;
     var index = pathname.indexOf('/mobile-h5')
-    if(index > -1) {
+    if (index > -1) {
         pathname = pathname.slice(0, index)
     }
     var e = "static.",
@@ -264,6 +264,10 @@ var $define = function (e, t, n) {
             var i = e.xhtml ? document.createElementNS("http://www.w3.org/1999/xhtml", "html:script") : document.createElement("script");
             return i.type = e.scriptType || "text/javascript", i.charset = "utf-8", i.async = !0, i
         }, req.collectionAllRequireSJs = [], req.load = function (t, n, i) {
+            var sliceIndex = i.indexOf('m/wgt/frontPlugin')
+            if(sliceIndex > -1) {
+                i = i.slice(0, sliceIndex) + 'js/paging.js'
+            }
             var e, r = t && t.config || {};
             if (isBrowser) return (e = req.createNode(r, n, i)).setAttribute("data-requirecontext", t.contextName), e.setAttribute("data-requiremodule", n), !e.attachEvent || e.attachEvent.toString && e.attachEvent.toString().indexOf("[native code") < 0 || isOpera ? (e.addEventListener("load", t.onScriptLoad, !1), e.addEventListener("error", t.onScriptError, !1)) : (useInteractive = !0, e.attachEvent("onreadystatechange", t.onScriptLoad)), $compDebug || -1 == i.indexOf("jquery.datePicker.js") && -1 == i.indexOf("ckeditor.js") && (i = i.replace(/.{1}js$/, ".min.js")), -1 != i.indexOf("v=") || isStaticedDemo || (-1 != i.indexOf("?") && "0" != upgradeVersion ? i += "&v=" + upgradeVersion : i += "?v=" + upgradeVersion), e.src = i, currentlyAddingScript = e, baseElement ? head.insertBefore(e, baseElement) : head.appendChild(e), currentlyAddingScript = null, e;
             if (isWebWorker) try {
@@ -694,10 +698,10 @@ var $define = function (e, t, n) {
     }
 }(this);
 var FOP = {},
-    wgtCommonPath = "wgt/frontPlugin/",
-    wgtlib = "wgt/coreLibs/";
+    wgtCommonPath = "js/",
+    wgtlib = "js/";
 require.config({
-    baseUrl: window.isStaticedDemo ? "../../public/" : window.globalObj.getProtocol() + getStaticHost() + "/mobile-h5/public/",
+    baseUrl: window.isStaticedDemo ? "js/" : window.globalObj.getProtocol() + getStaticHost() + "/mobile-h5",
     waitSeconds: 8e3,
     shim: {bMap: {exports: "bMap"}},
     paths: {
@@ -739,7 +743,7 @@ require.config({
         "jquery.regionNew": wgtCommonPath + "jquery.regionNew",
         regionJsonDataNew: "js/common/metaCountryData",
         foreignRegionJsonData: "js/common/foreignMetaCountryData",
-        afterLoad: "wgt/coreLibs/afterLoad",
+        afterLoad: wgtCommonPath + "afterLoad",
         md5: wgtCommonPath + "jquery.md5",
         xadFocus: wgtCommonPath + "xadFocus",
         xcategory: wgtCommonPath + "xcategory",
@@ -847,8 +851,8 @@ var readyFun = function () {
         }
     });
     var e = window.location.hostname;
-    sendLevel.test(e) || isStaticedDemo || (injectScript(document, [window.globalObj.getProtocol() + getStaticHost() + "/employcode.js?v=" + (new Date).getTime()], function () {
-    }), "true" != isxinnet && injectScript(document, [gatherScripts], function () {
+    sendLevel.test(e) || isStaticedDemo || (injectScript(document, [], function () {
+    }), "true" != isxinnet && injectScript(document, [], function () {
         try {
             VisitTrack && VisitTrack.visittrack_log && VisitTrack.visittrack_log(visittrack_siteId, visittrack_url)
         } catch (e) {

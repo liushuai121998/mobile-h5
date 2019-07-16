@@ -2,12 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817d650c-82f5-4a10-8ef2-92560e92878c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/paging.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/page/page_Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/page/page_Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/product/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/wgt/coreLibs/interwords.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/wgt/coreLibs/interwords.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/intro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/no-img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/no-img.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/pagination/initPagination.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pagination/initPagination.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/pagination/pagination.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pagination/pagination.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalIntro/portalResIntro_detail-01.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalIntro/portalResIntro_detail-01.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalMessage/portalResMessage_form-01.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalMessage/portalResMessage_form-01.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalNews/portalResNews_list-01.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalNews/portalResNews_list-01.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalProduct/portalResProduct_category-01.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalProduct/portalResProduct_category-01.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalProduct/portalResProduct_list-01.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalProduct/portalResProduct_list-01.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/portalResBreadcrumb/portalResBreadcrumb_nav.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portalResBreadcrumb/portalResBreadcrumb_nav.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/widgets/widgets_spageTurning.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/widgets/widgets_spageTurning.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/coreLibs/afterLoad.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/afterLoad.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/coreLibs/interwords.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/interwords.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/coreLibs/utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.formValidate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.formValidate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.md5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.md5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.mediaQuery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.mediaQuery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.message.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.message.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.qrcode.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.qrcode.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/jquery.tmpl.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.tmpl.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/laydate/laydate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/laydate/laydate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/laydate/theme/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/laydate/theme/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/swiper4.4.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/swiper4.4.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/wgt_etree.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/wgt_etree.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wgt/frontPlugin/xcategory.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/xcategory.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/1whjsLpnRTaSpIKsCXqUcg.jpg_104xaf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/office-building.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/1whjsLpnRTaSpIKsCXqUcg.jpg_290xaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/A461ZB0ERgqg6EIcvTZc6g.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/intro-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/F2bzBHTmSxSqWtpdHFJaBQ.jpg_104xaf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/building-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/F2bzBHTmSxSqWtpdHFJaBQ.jpg_290xaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/gdZWGU32RIyfieoVbjxRyA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/p33J7sicTjCDpQpdc16tvQ.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/map.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/rq0S5G4sTzCu3Sc2u_JDmQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/zEaZOq-QQraXrirlquQJig.jpg_104xaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/image/zEaZOq-QQraXrirlquQJig.jpg_290xaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,14 +57,75 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mobile-h5" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/interwords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="850" column="9" lean-forward="true" selection-start-line="850" selection-start-column="9" selection-end-line="850" selection-end-column="9" />
+              <folding>
+                <element signature="e#37878#40235#0" />
+                <element signature="e#40255#41028#0" />
+                <element signature="e#44597#44844#0" />
+                <element signature="e#45125#45175#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="484" column="62" lean-forward="true" selection-start-line="484" selection-start-column="62" selection-end-line="484" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="398" column="61" lean-forward="true" selection-start-line="398" selection-start-column="61" selection-end-line="398" selection-end-column="61" />
+              <folding>
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/portalIntro/portalResIntro_detail-01.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="450" column="76" lean-forward="true" selection-start-line="450" selection-start-column="76" selection-end-line="450" selection-end-column="76" />
+              <folding>
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="232" column="109" selection-start-line="232" selection-start-column="109" selection-end-line="232" selection-end-column="109" />
+            <state relative-caret-position="515">
+              <caret line="277" column="103" selection-start-line="277" selection-start-column="103" selection-end-line="277" selection-end-column="103" />
               <folding>
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,67 +138,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/intro/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="268" column="86" selection-start-line="268" selection-start-column="86" selection-end-line="268" selection-end-column="86" />
-              <folding>
-                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#span#0;n#p#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/product/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="265" column="81" selection-start-line="265" selection-start-column="81" selection-end-line="265" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/contact/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/wgt/coreLibs/interwords.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/css/test.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -112,10 +153,33 @@
       <find>getProtocol</find>
       <find>getStaticHost</find>
       <find>reposit</find>
-      <find>/pages</find>
       <find>/product</find>
+      <find>/pages</find>
+      <find>dfs.yun300.cn/group1/M00/02/74/rBQBHVx_KCaEBjuSAAAAAGrvM8w615.png</find>
+      <find>employcode.js</find>
+      <find>dfs</find>
+      <find>injectScript</find>
+      <find>gatherScripts</find>
+      <find>scripts/visittrack.js</find>
       <find>/intro</find>
+      <find>1whjsLpnRTaSpIKsCXqUcg</find>
+      <find>head</find>
+      <find>widgets_</find>
+      <find>paging</find>
+      <find>/frontplugin</find>
+      <find>m/wgt</find>
+      <find>$compDebug</find>
+      <find>upload</find>
+      <find>commentVi</find>
+      <find>no-img.svg</find>
+      <find>no-img</find>
+      <find>img-none</find>
+      <find>employ</find>
+      <find>repos</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,11 +188,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/footer_contact.css" />
-        <option value="$PROJECT_DIR$/public/wgt/coreLibs/interwords.js" />
-        <option value="$PROJECT_DIR$/pages/product/index.html" />
-        <option value="$PROJECT_DIR$/pages/intro/index.html" />
+        <option value="$PROJECT_DIR$/css/animate.css" />
+        <option value="$PROJECT_DIR$/public/wgt/coreLibs/utils.min.js" />
+        <option value="$PROJECT_DIR$/css/page/page_Home.css" />
         <option value="$PROJECT_DIR$/pages/contact/index.html" />
+        <option value="$PROJECT_DIR$/pages/intro/index.html" />
+        <option value="$PROJECT_DIR$/pages/product/index.html" />
+        <option value="$PROJECT_DIR$/public/wgt/coreLibs/interwords.js" />
+        <option value="$PROJECT_DIR$/js/paging.min.js" />
+        <option value="$PROJECT_DIR$/js/interwords.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/intro.html" />
+        <option value="$PROJECT_DIR$/js/portalIntro/portalResIntro_detail-01.min.js" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/js/utils.min.js" />
+        <option value="$PROJECT_DIR$/concact.html" />
       </list>
     </option>
   </component>
@@ -152,47 +226,6 @@
               <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="contact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="intro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wgt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wgt" type="462c0819:PsiDirectoryNode" />
-              <item name="coreLibs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -204,6 +237,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/font" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,26 +269,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563183769649</updated>
-      <workItem from="1563183771903" duration="7792000" />
+      <workItem from="1563183771903" duration="16688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7792000" />
+    <option name="totallyTimeSpent" value="16688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1423" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22039942" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" sideWeight="0.50066936" side_tool="true" weight="0.28673324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.13837375" />
+      <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.28673324" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32931727" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.1914324" />
+      <window_info anchor="bottom" id="Version Control" weight="0.18607764" />
+      <window_info anchor="bottom" id="Terminal" weight="0.15394913" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -259,6 +302,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -311,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/wgt/coreLibs/interwords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/intro/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -360,24 +406,211 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="294" column="33" lean-forward="true" selection-start-line="294" selection-start-column="33" selection-end-line="294" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/no-img.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="3610" column="27" lean-forward="true" selection-start-line="3610" selection-start-column="27" selection-end-line="3610" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/image/1whjsLpnRTaSpIKsCXqUcg.jpg_104xaf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/office-building.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/image/gdZWGU32RIyfieoVbjxRyA.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/image/rq0S5G4sTzCu3Sc2u_JDmQ.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/image/zEaZOq-QQraXrirlquQJig.jpg_104xaf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/image/zEaZOq-QQraXrirlquQJig.jpg_290xaf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/building-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/building-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/paging.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.formValidate.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.md5.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.mediaQuery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.message.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.qrcode.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/utils.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret column="257121" lean-forward="true" selection-start-column="257121" selection-end-column="257121" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/afterLoad.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/laydate/laydate.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/laydate/theme/default/laydate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/xcategory.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wgt_etree.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper4.4.2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.tmpl.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/widgets/widgets_spageTurning.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalResBreadcrumb/portalResBreadcrumb_nav.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalProduct/portalResProduct_category-01.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalProduct/portalResProduct_list-01.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalNews/portalResNews_list-01.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalMessage/portalResMessage_form-01.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pagination/initPagination.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pagination/pagination.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/test.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/contact/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+        <state relative-caret-position="224">
+          <caret line="162" column="25" lean-forward="true" selection-start-line="162" selection-start-column="25" selection-end-line="162" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="232" column="109" selection-start-line="232" selection-start-column="109" selection-end-line="232" selection-end-column="109" />
+        <state relative-caret-position="515">
+          <caret line="277" column="103" selection-start-line="277" selection-start-column="103" selection-end-line="277" selection-end-column="103" />
           <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/intro-img.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portalIntro/portalResIntro_detail-01.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="398" column="61" lean-forward="true" selection-start-line="398" selection-start-column="61" selection-end-line="398" selection-end-column="61" />
+          <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="450" column="76" lean-forward="true" selection-start-line="450" selection-start-column="76" selection-end-line="450" selection-end-column="76" />
+          <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/map.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="484" column="62" lean-forward="true" selection-start-line="484" selection-start-column="62" selection-end-line="484" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/interwords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="850" column="9" lean-forward="true" selection-start-line="850" selection-start-column="9" selection-end-line="850" selection-end-column="9" />
+          <folding>
+            <element signature="e#37878#40235#0" />
+            <element signature="e#40255#41028#0" />
+            <element signature="e#44597#44844#0" />
+            <element signature="e#45125#45175#0" />
           </folding>
         </state>
       </provider>
